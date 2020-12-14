@@ -81,4 +81,3 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 # Tweets
 
 A small web application that retrieves the latest tweets for a given account and displays them in a grid, with the ability to search and filter the tweets by keywords
-# tweets
