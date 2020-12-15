@@ -1,6 +1,6 @@
 # Tweets
 
-A small web application that retrieves the latest tweets for a given account and displays them in a grid, with the ability to search and filter the tweets by keywords
+A small web application using the Laravel framework that retrieves the latest tweets for a given account and displays them in a grid, with the ability to search and filter the tweets by keywords
 
 To run the application:
 
