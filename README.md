@@ -7,6 +7,6 @@ To run the application:
 * Pull the code
 * Add you database details and twitter API credentials to the .env file
 * Add your Twitter screen name to TweetsTableSeeder.php
-* Add you twitter screen name to app/Console/Commands/tweetData.php
-* Run  the custom command 'php artisan update:tweets' to pull in the latest tweets
+* Add your twitter screen name to app/Console/Commands/tweetData.php
+* Run the custom command 'php artisan update:tweets' to pull in the latest tweets
 * Launch your application in the browser
