@@ -5,7 +5,7 @@ A small web application using the Laravel framework that retrieves the latest tw
 To run the application:
 
 * Pull the code
-* RUn 'composer update' to install dependencies
+* Run 'composer update' to install dependencies
 * Add you database details and twitter API credentials to the .env file
 * Add your Twitter screen name to TweetsTableSeeder.php
 * Add your twitter screen name to app/Console/Commands/tweetData.php
